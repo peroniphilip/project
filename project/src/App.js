@@ -10,6 +10,7 @@ function App() {
           Welcome fellow internet surfer.
         </h2>
         <p>Sorry. This website is not ready yet.</p>
+        <button className="button">Don't click</button>
       </header>
     </div>
   );
